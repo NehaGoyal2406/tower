@@ -1,0 +1,9 @@
+[dev]
+servera
+
+[test]
+serverb
+
+[prod]
+servera
+serverb
